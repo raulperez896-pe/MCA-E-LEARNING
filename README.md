@@ -1,16 +1,7 @@
-# Portal E-learning Convenios — GitHub v1.4
+# Portal E-learning Convenios · GitHub Pages
 
-Portal HTML estático para GitHub Pages.
+Versión 1.5 · 26/08/2026
 
-## Estructura
-- `index.html` — portal completo; incluye logos y matriz embebida para evitar problemas de rutas en GitHub Pages.
-- `assets/` — copias de los logos proporcionados.
-- `data/` — matriz en JSON/JS.
+Subir todo el contenido a la raíz del repositorio. En GitHub Pages seleccionar rama `principal` y carpeta `/ (root)`.
 
-## Buscador
-El buscador es exclusivamente por el campo **Convenio** y ofrece sugerencias en tiempo real. Al seleccionar un convenio, muestra sus registros y condiciones.
-
-## Publicación
-Subir el contenido de esta carpeta a la raíz del repositorio y configurar GitHub Pages: rama `principal`, carpeta `/ (root)`.
-
-Versión 1.4 · 26/08/2026
+El buscador es exclusivamente por el campo **Convenio** y genera sugerencias en tiempo real a partir de los 540 registros de la matriz.
