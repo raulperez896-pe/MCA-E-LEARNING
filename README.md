@@ -17,5 +17,5 @@ Mantiene el buscador predictivo por Convenio, la matriz consolidada y la capacit
 ## v3.6
 Capacitación especializada de Marina de Guerra basada en la PPT MGP 11.08.2026, con módulos operativos y material visual extraído de la presentación.
 
-## v3.7 — MGP interactivo
-Se añadió entrenamiento visual e interactivo con selección de imágenes de la PPT MGP y ejercicios de identificación, validación y documentación.
+## v3.8 — Campus MGP rediseñado
+Interfaz responsive y modular, navegación por módulos, progreso, comprobación rápida y galería visual. Se evita depender de estilos externos para impedir descuadres en GitHub Pages.
