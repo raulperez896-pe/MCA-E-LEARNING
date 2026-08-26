@@ -1,16 +1,9 @@
-# Portal E-learning Convenios — Master Center Américas & BBVA
+# Portal E-learning Convenios · GitHub Pages
 
-Portal HTML estático listo para GitHub Pages.
+Versión 1.2 · 26/08/2026
 
-## Estructura
-- `index.html` — aplicación principal.
-- `data/convenios.json` — matriz de convenios.
-- `assets/master-center-americas.png` — logo oficial proporcionado por el usuario.
+Estructura: `index.html`, `assets/`, `data/`.
 
-## Publicación en GitHub Pages
-1. Descomprime el ZIP.
-2. Sube `index.html`, `README.md`, `data/` y `assets/` a la raíz del repositorio.
-3. En GitHub: **Settings → Pages → Deploy from a branch → main → / (root)**.
-4. Guarda y espera la publicación.
+La matriz se carga desde `data/convenios.js` para asegurar funcionamiento en GitHub Pages y se mantiene `data/convenios.json` como fuente de datos.
 
-**Versión visible:** 1.1 · 26/08/2026
+Para publicar: GitHub → Settings → Pages → Deploy from a branch → rama `principal` → `/ (root)`.
