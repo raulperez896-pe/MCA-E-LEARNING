@@ -1,19 +1,17 @@
-# Portal E-learning de Convenios — GitHub v2.3
+# Portal E-learning Convenios v3.0
 
 Portal HTML estático para GitHub Pages.
 
-## Novedad v2.3
-- La búsqueda sigue siendo exclusivamente por CONVENIO.
-- Se mantiene un único registro consolidado por convenio.
-- Al seleccionar **Ver ficha consolidada** se abre una ficha profesional tipo documento.
-- La ficha incluye los logos de **Master Center Américas** y **BBVA** en el encabezado.
-- La ficha consolida identificación, condiciones generales, perfiles laborales, tasas, endeudamiento, condiciones específicas, excepciones, Contigo y validaciones documentarias.
-- Incluye botón **Imprimir ficha** para generar una copia desde el navegador.
-- La matriz continúa integrada en `index.html` para evitar dependencias de carga de archivos en GitHub Pages.
+## Flujo de aprendizaje
+1. Seleccionar convenio mediante buscador predictivo en línea (exclusivamente por Convenio).
+2. Capacitación dinámica específica del convenio.
+3. Módulos desbloqueables en orden.
+4. Casos prácticos.
+5. Evaluación final de 10 preguntas con nota y aprobación mínima de 80%.
 
-## Publicación
-Sube `index.html`, `assets/` y `data/` a la raíz del repositorio y configura GitHub Pages con la rama `principal` y `/ (root)`.
+La matriz consolidada contiene 540 registros originales agrupados en 233 convenios únicos.
 
+## GitHub Pages
+Subir `index.html`, `assets/` y `data/` a la raíz del repositorio y publicar desde la rama `principal` y carpeta `/ (root)`.
 
-## Versión 2.3
-La ficha consolidada del convenio ahora se abre como una pestaña dentro de la misma página, sin modal ni ventana independiente.
+Versión 3.0 · 26/08/2026
