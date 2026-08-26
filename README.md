@@ -1,7 +1,13 @@
-# Portal E-learning Convenios · GitHub Pages
+# Portal E-learning Convenios — versión 2.0
 
-Versión 1.5 · 26/08/2026
+Portal HTML autónomo para GitHub Pages.
 
-Subir todo el contenido a la raíz del repositorio. En GitHub Pages seleccionar rama `principal` y carpeta `/ (root)`.
+## Importante
+Esta versión es **100% autocontenida**: los 540 registros de la matriz y los logos Master Center Américas / BBVA están integrados directamente en `index.html`. No depende de `fetch`, rutas externas ni archivos de datos para funcionar en GitHub Pages.
 
-El buscador es exclusivamente por el campo **Convenio** y genera sugerencias en tiempo real a partir de los 540 registros de la matriz.
+### GitHub Pages
+- Rama: `principal`
+- Carpeta: `/ (root)`
+- Subir `index.html` directamente a la raíz del repositorio.
+
+El buscador trabaja exclusivamente por **Convenio** y ofrece sugerencias en tiempo real.
