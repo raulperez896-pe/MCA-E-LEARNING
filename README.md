@@ -19,3 +19,6 @@ Capacitación especializada de Marina de Guerra basada en la PPT MGP 11.08.2026,
 
 ## v3.8 — Campus MGP rediseñado
 Interfaz responsive y modular, navegación por módulos, progreso, comprobación rápida y galería visual. Se evita depender de estilos externos para impedir descuadres en GitHub Pages.
+
+## v3.9 — Corrección definitiva de renderizado
+Se corrigió el cierre prematuro de un bloque JavaScript de impresión que hacía visible código fuente al final de la página. Se conserva la estructura del Campus MGP y el buscador predictivo.
