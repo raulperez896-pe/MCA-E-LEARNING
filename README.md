@@ -1,10 +1,16 @@
-# Portal E-learning Convenios · GitHub Pages
+# Portal E-learning Convenios — GitHub v1.4
 
-Versión 1.3 · 26/08/2026
+Portal HTML estático para GitHub Pages.
 
-- `index.html` está en la raíz.
-- Logo Master Center Américas y logo BBVA embebidos en `index.html` para evitar errores de rutas en GitHub Pages.
-- Matriz de 540 registros embebida en `index.html`.
-- Buscador predictivo **exclusivamente por Convenio**.
+## Estructura
+- `index.html` — portal completo; incluye logos y matriz embebida para evitar problemas de rutas en GitHub Pages.
+- `assets/` — copias de los logos proporcionados.
+- `data/` — matriz en JSON/JS.
 
-Publicación: Settings → Pages → Deploy from a branch → rama `principal` → `/ (root)`.
+## Buscador
+El buscador es exclusivamente por el campo **Convenio** y ofrece sugerencias en tiempo real. Al seleccionar un convenio, muestra sus registros y condiciones.
+
+## Publicación
+Subir el contenido de esta carpeta a la raíz del repositorio y configurar GitHub Pages: rama `principal`, carpeta `/ (root)`.
+
+Versión 1.4 · 26/08/2026
